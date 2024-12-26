@@ -2,7 +2,7 @@
 
 # 笔记
 
-[release](https://github.com/kingwingfly/25-11408-GEE/releases/tag/v0.0.1)
+通过[release](https://github.com/kingwingfly/25-11408-GEE/releases/tag/v0.0.1)页直接下载。
 
 里面可能有macOS的`.DS_Store`文件，删了就好。
 
@@ -105,3 +105,7 @@ tree
 
 7 directories, 80 files
 ```
+
+# 经验分享
+
+Todo
